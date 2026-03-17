@@ -1,0 +1,12 @@
+.cabecalho{
+    background-color: #67c6e5;
+    font-family: 'calibri',sans-serif ;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    padding: 15px;
+    gap: 20px;
+    align-items: center;
+    cursor: pointer;
+    color: black;
+}
